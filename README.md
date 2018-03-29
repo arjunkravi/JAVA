@@ -36,9 +36,12 @@ class myfile
 ```
 
 * compile the script
+
 **>java myfile.java**
+
 * then a .class file will be generated in the directory . Run the script by running the command :
-**>javac myfile
+
+**>javac myfile**
 
 ### 5. You can begin the java scripting now .. 
 
